@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const app = express();
-const path = "mongodb://ariefhirmanto:dzF0y3dMYyca9SkM@cluster0-shard-00-00.jnrxl.mongodb.net:27017,cluster0-shard-00-01.jnrxl.mongodb.net:27017,cluster0-shard-00-02.jnrxl.mongodb.net:27017/sederhanain?authSource=admin&replicaSet=atlas-doso54-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true";
+const path = "";
 
 var corsOptions = {
   origin: true,
